@@ -39,9 +39,6 @@
     background: #fff;
 }
 
-section.first {
-    margin-left: 0%;
-}
 
 section {
     padding: 20px;
@@ -50,4 +47,8 @@ section {
 
 [class*="col-"] {
     margin-left: 2%;
+}
+
+.first {
+    margin-left: 0%;
 }
